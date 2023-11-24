@@ -1,0 +1,525 @@
+especialidade,sintomaId,sintoma,parteDoCorpo,regiaoDoCorpo
+alergia e imunologia,19,aperto no peito,pulmao,tronco
+alergia e imunologia,38,chiado no peito,pulmao,tronco
+alergia e imunologia,40,coceira na garganta,garganta,tronco
+alergia e imunologia,42,coceira nazal insistente,nariz,cabeca
+alergia e imunologia,44,coceira/irritacao nos olhos,olhos,cabeca
+alergia e imunologia,54,coriza,nariz,cabeca
+alergia e imunologia,81,diarreia,intestino,tronco
+alergia e imunologia,100,dor abdominal,abdomen,tronco
+alergia e imunologia,144,espirros repetidos,nariz,cabeca
+alergia e imunologia,156,fadiga,corpo,partes gerais do corpo
+alergia e imunologia,160,falta de ar,pulmao,tronco
+alergia e imunologia,168,formacao de pequenas bolhas na pele,pele,partes gerais do corpo
+alergia e imunologia,190,inchaco na boca,boca,cabeca
+alergia e imunologia,191,inchaco na lingua,boca,cabeca
+alergia e imunologia,192,inchaco na regiao do abdomen,abdomen,tronco
+alergia e imunologia,198,inchaco nos olhos,olhos,cabeca
+alergia e imunologia,220,manchas avermelhadas que desaparecem e reaparecem em diversas partes do corpo,pele,partes gerais do corpo
+alergia e imunologia,233,nariz entupido,nariz,cabeca
+alergia e imunologia,236,nausea/enjoo,abdomen,tronco
+alergia e imunologia,255,pele ressecada com vermelhidao nas dobras,pele,partes gerais do corpo
+alergia e imunologia,345,tosse,pulmao,tronco
+alergia e imunologia,360,vermelhidao intensa apos picada de insetos,pele,partes gerais do corpo
+alergia e imunologia,362,vermelhidao nos olhos,olhos,cabeca
+alergia e imunologia,371,vomito,abdomen,tronco
+cardiologia,15,ansiedade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,18,aperto forte no coracao (regiao levemente a esquerda da linha media),coracao,tronco
+cardiologia,45,coloracao acinzentado-azulado,pele,partes gerais do corpo
+cardiologia,68,depressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,72,desconforto na mandibula,rosto,cabeca
+cardiologia,73,desconforto na regiao das escapulas,regiao das escapulas,tronco
+cardiologia,74,desconforto na regiao do abdomen,abdomen,tronco
+cardiologia,75,desconforto no braco direito,braco,membros superiores
+cardiologia,76,desconforto no braco esquerdo,braco,membros superiores
+cardiologia,79,desmaios,cabeca,cabeca
+cardiologia,129,dores no peito,pulmao,tronco
+cardiologia,147,estresse,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,156,fadiga,corpo,partes gerais do corpo
+cardiologia,160,falta de ar,pulmao,tronco
+cardiologia,162,falta de exercicio fisico,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,188,inchaco das pernas,pernas,membros inferiores
+cardiologia,192,inchaco na regiao do abdomen,abdomen,tronco
+cardiologia,193,inchaco na regiao sacral,regiao sacral,tronco
+cardiologia,195,inchaco no corpo,corpo,partes gerais do corpo
+cardiologia,196,inchaco no rosto,rosto,cabeca
+cardiologia,200,incomodo no coracao (regiao levemente a esquerda da linha media),coracao,tronco
+cardiologia,239,noites mal dormidas,sono,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,246,palidez,pele,partes gerais do corpo
+cardiologia,247,palpitacao do coracao,coracao,tronco
+cardiologia,280,pessimismo,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,283,pneumonia,pulmao,tronco
+cardiologia,284,poluicao ambiental e sonora,ambiente que frequenta,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,337,suor excessivo,pele,partes gerais do corpo
+cardiologia,340,tabagismo,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+cardiologia,344,tonturas,cabeca,cabeca
+cardiologia,345,tosse,pulmao,tronco
+cardiologia,358,uso excessivo de alcool,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+coloproctologia,5,alteracao da digestao,intestino,tronco
+coloproctologia,50,constipacao intestinal,intestino,tronco
+coloproctologia,82,diarreia persistente por mais de 3 semanas,intestino,tronco
+coloproctologia,90,dificuldade para evacuar,anus,tronco
+coloproctologia,105,dor e colica frequente abdominal,abdomen,tronco
+coloproctologia,312,sangramento anal,anus,tronco
+dermatologia,1,acne,pele,partes gerais do corpo
+dermatologia,71,descascamento das unhas,unha,partes gerais do corpo
+dermatologia,111,dor nas unhas,unha,partes gerais do corpo
+dermatologia,203,infeccoes nas unhas,unha,partes gerais do corpo
+dermatologia,219,manchas avermelhadas ou que cocam,pele,partes gerais do corpo
+dermatologia,221,mau cheiro,pele,partes gerais do corpo
+dermatologia,254,pele oleosa,pele,partes gerais do corpo
+dermatologia,256,pele seca,pele,partes gerais do corpo
+dermatologia,282,pintas que mudam de tamanho e cor,pele,partes gerais do corpo
+dermatologia,292,queda de cabelo,cabeca,cabeca
+dermatologia,333,sinais com textura e bordas irregulares,pele,partes gerais do corpo
+dermatologia,337,suor excessivo,pele,partes gerais do corpo
+dermatologia,354,unhas amarelas,unha,partes gerais do corpo
+dermatologia,355,unhas enfraquecidas,unha,partes gerais do corpo
+endocrinologia e metabologia,1,acne,pele,partes gerais do corpo
+endocrinologia e metabologia,8,alteracoes no ciclo menstrual,glandulas sexuais,tronco
+endocrinologia e metabologia,23,atraso na puberdade ou puberdade precoce,glandulas sexuais,tronco
+endocrinologia e metabologia,26,aumento de peso,corpo,partes gerais do corpo
+endocrinologia e metabologia,59,crescimento das mamas nos meninos,glandulas mamarias,tronco
+endocrinologia e metabologia,86,dificuldade de crescimento,corpo,partes gerais do corpo
+endocrinologia e metabologia,95,disfuncao sexual,glandulas sexuais,tronco
+endocrinologia e metabologia,152,excesso de pelos em mulheres,pele,partes gerais do corpo
+endocrinologia e metabologia,156,fadiga,corpo,partes gerais do corpo
+endocrinologia e metabologia,334,sinais e sintomas de andropausa e menopausa,glandulas sexuais,tronco
+gastroenterologia,5,alteracao da digestao,intestino,tronco
+gastroenterologia,32,azia ou queimacao no estomago,abdomen,tronco
+gastroenterologia,81,diarreia,intestino,tronco
+gastroenterologia,100,dor abdominal,abdomen,tronco
+gastroenterologia,180,gases,abdomen,tronco
+gastroenterologia,192,inchaco na regiao do abdomen,abdomen,tronco
+gastroenterologia,236,nausea/enjoo,abdomen,tronco
+gastroenterologia,287,prisao de ventre,intestino,tronco
+gastroenterologia,296,refluxo,abdomen,tronco
+gastroenterologia,371,vomito,abdomen,tronco
+hematologia e hemoterapia,107,dor nas articulacoes,articulacoes,partes gerais do corpo
+hematologia e hemoterapia,114,dor nos ossos,ossos,partes gerais do corpo
+hematologia e hemoterapia,140,enfraquecimento dos ossos,ossos,partes gerais do corpo
+hematologia e hemoterapia,156,fadiga,corpo,partes gerais do corpo
+hematologia e hemoterapia,164,febre,corpo,partes gerais do corpo
+hematologia e hemoterapia,195,inchaco no corpo,corpo,partes gerais do corpo
+hematologia e hemoterapia,216,mal estar,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+hematologia e hemoterapia,251,pele amarelada,pele,partes gerais do corpo
+hematologia e hemoterapia,272,perda de peso,corpo,partes gerais do corpo
+hematologia e hemoterapia,283,pneumonia,pulmao,tronco
+hematologia e hemoterapia,313,sangramento no nariz,nariz,cabeca
+hematologia e hemoterapia,314,sangramentos na gengiva,boca,cabeca
+hematologia e hemoterapia,335,sudorese noturna,pele,partes gerais do corpo
+mastologia,16,"aparecimento de ""carocos"" ao apalpar a mama",glandulas mamarias,tronco
+mastologia,41,coceira na mama,glandulas mamarias,tronco
+mastologia,106,dor na mama,glandulas mamarias,tronco
+mastologia,230,mudanca do aspecto da pele na mama,glandulas mamarias,tronco
+mastologia,317,secrecao pelo mamilo nao estando gravida,glandulas mamarias,tronco
+nefrologia,12,anemia,sangue,partes gerais do corpo
+nefrologia,28,ausencia de urina,urina,partes gerais do corpo
+nefrologia,109,dor nas costas/rins,rins,tronco
+nefrologia,156,fadiga,corpo,partes gerais do corpo
+nefrologia,183,hipertensao,coracao,tronco
+nefrologia,195,inchaco no corpo,corpo,partes gerais do corpo
+nefrologia,236,nausea/enjoo,abdomen,tronco
+nefrologia,263,perda de apetite,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nefrologia,315,sangue na urina,urina,partes gerais do corpo
+nefrologia,357,urina espumosa,urina,partes gerais do corpo
+nefrologia,371,vomito,abdomen,tronco
+neurologia,10,alucinacoes visuais,olhos,cabeca
+neurologia,13,anomalias na locomocao,musculos,partes gerais do corpo
+neurologia,27,aumento de sensibilidade na pele,pele,partes gerais do corpo
+neurologia,49,confusao mental,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+neurologia,51,convulsoes,cabeca,cabeca
+neurologia,79,desmaios,cabeca,cabeca
+neurologia,85,dificuldade de concentracao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+neurologia,89,dificuldade em engolir,garganta,tronco
+neurologia,97,disturbios do sono,sono,"Coisas ""Abstratas"" - Saude Mental"
+neurologia,101,"dor ao longo de uma via nervosa (ciatica ou herpes zoster, por exemplo)",via nervosa,partes gerais do corpo
+neurologia,108,dor nas costas,costas,tronco
+neurologia,112,dor no pescoco,pescoco,tronco
+neurologia,138,dormencia na pele,pele,partes gerais do corpo
+neurologia,143,espasmos musculares,musculos,partes gerais do corpo
+neurologia,156,fadiga,corpo,partes gerais do corpo
+neurologia,157,fala ininteligivel,cabeca,cabeca
+neurologia,174,formigamentos ou picadas na pele,pele,partes gerais do corpo
+neurologia,175,fraqueza dos musculos,musculos,partes gerais do corpo
+neurologia,214,lentidao nos movimentos,musculos,partes gerais do corpo
+neurologia,215,ma coordenacao motora,musculos,partes gerais do corpo
+neurologia,223,memoria fraca,cabeca,cabeca
+neurologia,228,movimentos involuntarios,musculos,partes gerais do corpo
+neurologia,248,paralisia,musculos,partes gerais do corpo
+neurologia,265,perda de equilibrio,cabeca,cabeca
+neurologia,274,perda de sensibilidade na pele,pele,partes gerais do corpo
+neurologia,275,perda de visao parcial ou completa,olhos,cabeca
+neurologia,276,perda do sentido de posicao,corpo,partes gerais do corpo
+neurologia,277,perturbacoes do paladar,boca,cabeca
+neurologia,278,perturbacoes no olfato,nariz,cabeca
+neurologia,303,rigidez muscular,musculos,partes gerais do corpo
+neurologia,338,surdez,ouvido,cabeca
+neurologia,350,tremor dos musculos,musculos,partes gerais do corpo
+neurologia,364,vertigem,cabeca,cabeca
+neurologia,368,visao dupla,olhos,cabeca
+neurologia,375,zumbido nos ouvidos,ouvido,cabeca
+nutrologia,25,"aumento de infeccoes, principalmenbte em criancas e bebes",corpo,partes gerais do corpo
+nutrologia,26,aumento de peso,corpo,partes gerais do corpo
+nutrologia,34,cabelo ralo ou fino,cabeca,cabeca
+nutrologia,37,cegueira noturna,olhos,cabeca
+nutrologia,48,compulsao alimentar,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,60,crescimento e desenvolvimento lento em criancas,corpo,partes gerais do corpo
+nutrologia,74,desconforto na regiao do abdomen,abdomen,tronco
+nutrologia,88,dificuldade de respirar durante atividades fisicas,pulmao,tronco
+nutrologia,103,dor de cabeca,cabeca,cabeca
+nutrologia,107,dor nas articulacoes,articulacoes,partes gerais do corpo
+nutrologia,108,dor nas costas,costas,tronco
+nutrologia,129,dores no peito,pulmao,tronco
+nutrologia,150,excesso de pele,pele,partes gerais do corpo
+nutrologia,151,excesso de pele no rosto,rosto,cabeca
+nutrologia,153,excesso de sede,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,156,fadiga,corpo,partes gerais do corpo
+nutrologia,160,falta de ar,pulmao,tronco
+nutrologia,166,feridas com cicatrizacao lenta,sangue,partes gerais do corpo
+nutrologia,167,fome frequente,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,171,formigamento nas pernas,pernas,membros inferiores
+nutrologia,172,formigamento no braco,braco,membros superiores
+nutrologia,176,fraqueza pelo corpo,corpo,partes gerais do corpo
+nutrologia,178,frequencia cardiaca lenta,coracao,tronco
+nutrologia,201,infeccoes frequentes dos rins,rins,tronco
+nutrologia,202,infeccoes frequentes na pele,pele,partes gerais do corpo
+nutrologia,206,ingestao de laxantes,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,231,mudancas de humor,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,235,"nas mulheres, ausencia de menstruacao",glandulas sexuais,tronco
+nutrologia,236,nausea/enjoo,abdomen,tronco
+nutrologia,246,palidez,pele,partes gerais do corpo
+nutrologia,250,parte branca dos olhos secas e expessas,olhos,cabeca
+nutrologia,257,pele seca e escamosa,pele,partes gerais do corpo
+nutrologia,272,perda de peso,corpo,partes gerais do corpo
+nutrologia,285,preocupacao excessiva com o peso e dietas,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,307,ronco,nariz,cabeca
+nutrologia,313,Sangramento no nariz,nariz,cabeca
+nutrologia,339,surgimento de estrias,pele,partes gerais do corpo
+nutrologia,341,tecidos inchados,corpo,partes gerais do corpo
+nutrologia,342,temperatura baixa,corpo,partes gerais do corpo
+nutrologia,344,tonturas,cabeca,cabeca
+nutrologia,369,visao embacada,olhos,cabeca
+nutrologia,371,vomito,abdomen,tronco
+nutrologia,372,vomito induzido,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+nutrologia,373,vontade de urinar varias vezes ao dia,urina,partes gerais do corpo
+oftalmologia,7,alteracao na percepcao das cores,olhos,cabeca
+oftalmologia,14,anormalidade onde linhas retas parecem onduladas,olhos,cabeca
+oftalmologia,22,ardor no corpo,corpo,partes gerais do corpo
+oftalmologia,44,coceira/irritacao nos olhos,olhos,cabeca
+oftalmologia,87,dificuldade de fazer atividades diarias,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+oftalmologia,91,dificuldades de se adaptar a luz,olhos,cabeca
+oftalmologia,103,dor de cabeca,cabeca,cabeca
+oftalmologia,104,dor de garganta,garganta,tronco
+oftalmologia,113,dor nos olhos,olhos,cabeca
+oftalmologia,142,escurecimento da visao,olhos,cabeca
+oftalmologia,144,espirros repetidos,nariz,cabeca
+oftalmologia,165,fechar os olhos para enxergar melhor,olhos,cabeca
+oftalmologia,198,inchaco nos olhos,olhos,cabeca
+oftalmologia,233,nariz entupido,nariz,cabeca
+oftalmologia,234,nariz escorrendo,nariz,cabeca
+oftalmologia,237,nausea/enjoo ,abdomen,tronco
+oftalmologia,241,olhos lacrimejando,olhos,cabeca
+oftalmologia,242,olhos marejados,olhos,cabeca
+oftalmologia,243,olhos vermelhos,olhos,cabeca
+oftalmologia,290,pus na garganta,garganta,tronco
+oftalmologia,316,secrecao nos olhos,olhos,cabeca
+oftalmologia,318,secura nos olhos,olhos,cabeca
+oftalmologia,322,sensacao de peso nos olhos,olhos,cabeca
+oftalmologia,323,sensacao de queimacao na garganta,garganta,tronco
+oftalmologia,326,sensibilidade a luz,olhos,cabeca
+oftalmologia,344,tonturas,cabeca,cabeca
+oftalmologia,351,tremor nos olhos,olhos,cabeca
+oftalmologia,359,vasos sanguineos novos e anormais,sangue,partes gerais do corpo
+oftalmologia,366,visao com brilho,olhos,cabeca
+oftalmologia,367,visao distorcida,olhos,cabeca
+oftalmologia,368,Visao dupla,olhos,cabeca
+oftalmologia,369,visao embacada,olhos,cabeca
+oftalmologia,370,visualizacao de pontos,olhos,cabeca
+oftalmologia,371,vomito,abdomen,tronco
+ortopedia e traumotologia,55,costas encurvadas,costas,tronco
+ortopedia e traumotologia,58,crepitacoes das articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,63,deformidade do local fraturado,ossos,partes gerais do corpo
+ortopedia e traumotologia,64,deformidade nas articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,83,diferenca de gastos em sapatos de um pe para outro,pes,membros inferiores
+ortopedia e traumotologia,103,dor de cabeca,cabeca,cabeca
+ortopedia e traumotologia,107,dor nas articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,108,dor nas costas,costas,tronco
+ortopedia e traumotologia,110,dor nas pernas,pernas,membros inferiores
+ortopedia e traumotologia,112,dor no pescoco,pescoco,tronco
+ortopedia e traumotologia,114,dor nos ossos,ossos,partes gerais do corpo
+ortopedia e traumotologia,115,dor nos pes,pes,membros inferiores
+ortopedia e traumotologia,121,dores na regiao sacral,regiao sacral,tronco
+ortopedia e traumotologia,128,dores no braco,braco,membros superiores
+ortopedia e traumotologia,135,dores nos joelhos,pernas,membros inferiores
+ortopedia e traumotologia,136,dores nos musculos,musculos,partes gerais do corpo
+ortopedia e traumotologia,143,espasmos musculares,musculos,partes gerais do corpo
+ortopedia e traumotologia,169,formacao de tecido osseo,ossos,partes gerais do corpo
+ortopedia e traumotologia,173,formigamento no corpo,corpo,partes gerais do corpo
+ortopedia e traumotologia,177,fraturas dos ossos,ossos,partes gerais do corpo
+ortopedia e traumotologia,187,incapacidade de se movimentar na regiao fraturada,ossos,partes gerais do corpo
+ortopedia e traumotologia,194,inchaco nas articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,197,inchaco nos dedos,maos,membros superiores
+ortopedia e traumotologia,199,inchaco nos pes,pes,membros inferiores
+ortopedia e traumotologia,218,mancar ao andar,pernas,membros inferiores
+ortopedia e traumotologia,262,perda de altura,corpo,partes gerais do corpo
+ortopedia e traumotologia,304,rigidez nas articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,305,rigidez nos pulsos,maos,membros superiores
+ortopedia e traumotologia,308,rupturas dos ossos,ossos,partes gerais do corpo
+ortopedia e traumotologia,309,saliencia ossea nos dedos das maos,maos,membros superiores
+ortopedia e traumotologia,311,sangramento,sangue,partes gerais do corpo
+ortopedia e traumotologia,320,sensacao de facada na parte inferior,pes,membros inferiores
+ortopedia e traumotologia,329,sensibilidade nas articulacoes,articulacoes,partes gerais do corpo
+ortopedia e traumotologia,331,sensibilidade nos pulsos,maos,membros superiores
+ortopedia e traumotologia,332,sensibilidade pelo corpo,corpo,partes gerais do corpo
+ortopedia e traumotologia,343,temperatura elevada no local da fratura,ossos,partes gerais do corpo
+ortopedia e traumotologia,344,tonturas,cabeca,cabeca
+ortopedia e traumotologia,352,trincos dos ossos,ossos,partes gerais do corpo
+ortopedia e traumotologia,361,vermelhidao na pele,pele,partes gerais do corpo
+otorrinolaringologia,6,alteracao de humor,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,21,ardor na garganta,garganta,tronco
+otorrinolaringologia,33,boca seca,boca,cabeca
+otorrinolaringologia,36,calor no ouvido,ouvido,cabeca
+otorrinolaringologia,40,coceira na garganta,garganta,tronco
+otorrinolaringologia,42,coceira nazal insistente,nariz,cabeca
+otorrinolaringologia,43,coceira no ceu da boca,boca,cabeca
+otorrinolaringologia,44,coceira/irritacao nos olhos,olhos,cabeca
+otorrinolaringologia,54,Coriza,nariz,cabeca
+otorrinolaringologia,68,depressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,84,dificuldade de adormecer,sono,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,95,disfuncao sexual,glandulas sexuais,tronco
+otorrinolaringologia,96,disturbio do desequilibro,cabeca,cabeca
+otorrinolaringologia,99,dor a degluticao,garganta,tronco
+otorrinolaringologia,103,dor de cabeca,cabeca,cabeca
+otorrinolaringologia,104,dor de garganta,garganta,tronco
+otorrinolaringologia,106,dor na mama,glandulas mamarias,tronco
+otorrinolaringologia,122,dores na testa,cabeca,cabeca
+otorrinolaringologia,125,dores nas partes de tras dos olhos,olhos,cabeca
+otorrinolaringologia,134,dores no rosto,rosto,cabeca
+otorrinolaringologia,137,dores nos ouvidos,ouvido,cabeca
+otorrinolaringologia,139,drenagem de fluidos nos ouvidos,ouvido,cabeca
+otorrinolaringologia,144,espirros repetidos,nariz,cabeca
+otorrinolaringologia,154,excesso de sonolencia,sono,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,156,fadiga,corpo,partes gerais do corpo
+otorrinolaringologia,164,febre,corpo,partes gerais do corpo
+otorrinolaringologia,179,ganho de peso,corpo,partes gerais do corpo
+otorrinolaringologia,196,inchaco no rosto,rosto,cabeca
+otorrinolaringologia,205,inflamacao no ouvido,ouvido,cabeca
+otorrinolaringologia,208,insonia,sono,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,210,irritabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,211,irritacao na garganta,garganta,tronco
+otorrinolaringologia,233,nariz entupido,nariz,cabeca
+otorrinolaringologia,234,Nariz escorrendo,nariz,cabeca
+otorrinolaringologia,245,padrao de respiracao anormal,pulmao,tronco
+otorrinolaringologia,264,perda de audicao,ouvido,cabeca
+otorrinolaringologia,271,perda de olfato,nariz,cabeca
+otorrinolaringologia,278,perturbacoes no olfato,nariz,cabeca
+otorrinolaringologia,279,pesadelos,sono,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,281,pigarro na garganta,garganta,tronco
+otorrinolaringologia,286,pressao nos seios paranasais,cabeca,cabeca
+otorrinolaringologia,288,privacao do sono,sono,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,291,pus no ouvido,ouvido,cabeca
+otorrinolaringologia,294,ranger os dentes,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+otorrinolaringologia,307,ronco,nariz,cabeca
+otorrinolaringologia,328,sensibilidade na cabeca,cabeca,cabeca
+otorrinolaringologia,344,tonturas,cabeca,cabeca
+otorrinolaringologia,348,tosse cronica,pulmao,tronco
+otorrinolaringologia,362,vermelhidao nos olhos,olhos,cabeca
+otorrinolaringologia,363,vermilhidao no ouvido,ouvido,cabeca
+otorrinolaringologia,364,vertigem,cabeca,cabeca
+otorrinolaringologia,371,vomito,abdomen,tronco
+otorrinolaringologia,375,zumbido nos ouvidos,ouvido,cabeca
+pneumologia,35,calafrios,corpo,partes gerais do corpo
+pneumologia,79,desmaios,cabeca,cabeca
+pneumologia,100,dor abdominal,abdomen,tronco
+pneumologia,106,dor na mama,glandulas mamarias,tronco
+pneumologia,108,dor nas costas,costas,tronco
+pneumologia,129,dores no peito,pulmao,tronco
+pneumologia,130,dores no peito ao comer,pulmao,tronco
+pneumologia,131,dores no peito ao respirar fundo,pulmao,tronco
+pneumologia,132,dores no peito ao tossir,pulmao,tronco
+pneumologia,144,espirros repetidos,nariz,cabeca
+pneumologia,156,fadiga,corpo,partes gerais do corpo
+pneumologia,160,falta de ar,pulmao,tronco
+pneumologia,164,febre,corpo,partes gerais do corpo
+pneumologia,189,inchaco glanglios,pescoco,tronco
+pneumologia,233,nariz entupido,nariz,cabeca
+pneumologia,234,nariz escorrendo,nariz,cabeca
+pneumologia,242,olhos marejados,olhos,cabeca
+pneumologia,246,palidez,pele,partes gerais do corpo
+pneumologia,252,pele com coloracao acinzentado-azulado,pele,partes gerais do corpo
+pneumologia,253,pele fria,pele,partes gerais do corpo
+pneumologia,258,pele umida,pele,partes gerais do corpo
+pneumologia,263,perda de apetite,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+pneumologia,272,perda de peso,corpo,partes gerais do corpo
+pneumologia,300,respiracao rapida,pulmao,tronco
+pneumologia,301,respiracao sibilante,pulmao,tronco
+pneumologia,306,ritmo cardiaco acelerado,coracao,tronco
+pneumologia,319,sensacao de desmaio,corpo,partes gerais do corpo
+pneumologia,336,suor,pele,partes gerais do corpo
+pneumologia,345,tosse,pulmao,tronco
+pneumologia,346,tosse com catarro,pulmao,tronco
+pneumologia,347,tosse com sangue,pulmao,tronco
+pneumologia,371,vomito,abdomen,tronco
+psiquiatria,2,acumulacao compulsiva,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,3,agitacao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,4,agressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,9,alucinacoes,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,11,amnesia,cabeca,cabeca
+psiquiatria,17,apatia,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,20,apreensao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,26,aumento de peso,corpo,partes gerais do corpo
+psiquiatria,29,auto-imagem distorcida,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,30,automutilacao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,31,aversao a alimentos,alimentacao,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,39,choro,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,46,comportamento desorganizado,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,47,comportamentos de risco,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,52,coportamento ritualisticos,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,56,crenca de que um evento comum tem um significado especial e pessoal,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,57,crenca que os pensamentos nao sao seus,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,61,culpa,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,65,delirio,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,66,delirio persecutorio,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,67,delirio religioso,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,68,depressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,69,derpressao agitada,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,77,descontamento geral,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,78,desesperanca,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,80,desorientacao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,84,dificuldade de adormecer,sono,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,141,episodio maniaco,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,148,euforia,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,149,excesso de desejo sexual,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,154,excesso de sonolencia,sono,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,155,excitabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,156,fadiga,corpo,partes gerais do corpo
+psiquiatria,158,fala rapida e frenetica,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,159,falsa superioridade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,161,falta de concentracao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,163,falta de moderacao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,181,grandiosidade,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,182,hiperatividade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,182,hiperatividade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,184,hostilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,185,impulsividade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,185,impulsividade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,207,inquietacao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,208,insonia,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,209,invencao de coisas,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,210,irritabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,210,irritabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,212,isolamento social,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,213,lentidao durante atividades,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,215,ma coordenacao motora,musculos,partes gerais do corpo
+psiquiatria,222,medo,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,229,movimentos repetitivos,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,231,mudancas de humor,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,232,narcisimo,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,240,obsessoes sexuais,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,244,ouvir vozes,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,247,palpitacao do coracao,coracao,tronco
+psiquiatria,249,paranoia,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,259,pensamento acelerado,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,260,pensamentos indesejados,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,261,pensamentos suicidas,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,267,perda de interesse,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,270,perda de memoria,cabeca,cabeca
+psiquiatria,272,perda de peso,corpo,partes gerais do corpo
+psiquiatria,273,perda de prazer nas atividades,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,289,psicose,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,293,raiva,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,297,repeticao incessante de pensamentos,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,298,repeticao persistente de palavras ou acoes,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,299,repeticao sem sentido das proprias palavras,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,302,resposta emocional inadequada,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,336,suor,pele,partes gerais do corpo
+psiquiatria,349,transtorno dissociativo,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,353,tristeza,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+psiquiatria,365,vicio comportamental,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,15,ansiedade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,55,costas encurvadas,costas,tronco
+reumatologia,58,crepitacoes das articulacoes,articulacoes,partes gerais do corpo
+reumatologia,64,deformidade nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,68,depressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,84,dificuldade de adormecer,sono,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,92,diminuicao da mobilidade nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,97,disturbios do sono,sono,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,103,dor de cabeca,cabeca,cabeca
+reumatologia,107,dor nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,110,dor nas pernas,pernas,membros inferiores
+reumatologia,112,dor no pescoco,pescoco,tronco
+reumatologia,115,dor nos pes,pes,membros inferiores
+reumatologia,116,dor tardia nos musculos,musculos,partes gerais do corpo
+reumatologia,119,dores fortes nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,120,dores na parte inferior das costas,costas,tronco
+reumatologia,124,dores nas maos,maos,membros superiores
+reumatologia,133,dores no quadril,costas,tronco
+reumatologia,135,dores nos joelhos,pernas,membros inferiores
+reumatologia,143,espasmos musculares,musculos,partes gerais do corpo
+reumatologia,145,esquecimento,pensamentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,146,estalos nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,154,excesso de sonolencia,sono,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,156,fadiga,corpo,partes gerais do corpo
+reumatologia,161,falta de concentracao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,170,formigamento nas maos,maos,membros superiores
+reumatologia,173,formigamento no corpo,corpo,partes gerais do corpo
+reumatologia,177,fraturas dos ossos,ossos,partes gerais do corpo
+reumatologia,194,inchaco nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,197,inchaco nos dedos,maos,membros superiores
+reumatologia,210,irritabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,217,mal-estar geral,corpo,partes gerais do corpo
+reumatologia,218,mancar ao andar,pernas,membros inferiores
+reumatologia,224,menstruacao dolorosa,glandulas sexuais,tronco
+reumatologia,231,mudancas de humor,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,238,nervosismo,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+reumatologia,262,perda de altura,corpo,partes gerais do corpo
+reumatologia,266,perda de flexibilidade nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,295,rangidos nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,304,rigidez nas articulacoes,articulacoes,partes gerais do corpo
+reumatologia,309,saliencia ossea nos dedos das maos,maos,membros superiores
+reumatologia,310,saliencia ossea nos dedos dos pes,pes,membros inferiores
+reumatologia,321,sensacao de frio nas maos,maos,membros superiores
+reumatologia,325,sensibilidade a dor pelo corpo,corpo,partes gerais do corpo
+reumatologia,327,sensibilidade ao frio pelo corpo,corpo,partes gerais do corpo
+reumatologia,330,sensibilidade nos musculos,musculos,partes gerais do corpo
+urologia,12,anemia,sangue,partes gerais do corpo
+urologia,24,aumento de gorduras pelo corpo,corpo,partes gerais do corpo
+urologia,35,calafrios,corpo,partes gerais do corpo
+urologia,50,constipacao intestinal,intestino,tronco
+urologia,53,"cor rosa, vermelha ou marrom de urina",urina,partes gerais do corpo
+urologia,62,declinio do sono,sono,"Coisas ""Abstratas"" - Saude Mental"
+urologia,68,depressao,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+urologia,70,desanimo,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+urologia,85,dificuldade de concentracao,comportamentos,"Coisas ""Abstratas"" - Saude Mental"
+urologia,93,diminuicao de pelos,pele,partes gerais do corpo
+urologia,94,disfuncao eretil,glandulas sexuais,tronco
+urologia,98,dominuicao da libido,glandulas sexuais,tronco
+urologia,102,dor ao urinar,urina,partes gerais do corpo
+urologia,117,dores ao defecar,intestino,tronco
+urologia,118,dores durante o sexo,glandulas sexuais,tronco
+urologia,123,dores na vagina,glandulas sexuais,tronco
+urologia,126,dores nas pelvis,regiao sacral,tronco
+urologia,127,dores no anus,anus,tronco
+urologia,156,fadiga,corpo,partes gerais do corpo
+urologia,164,febre,corpo,partes gerais do corpo
+urologia,180,gases,intestino,tronco
+urologia,186,incapacidade de esvaziar o intestino,intestino,tronco
+urologia,204,infertilidade,glandulas sexuais,tronco
+urologia,210,irritabilidade,sentimentos,"Coisas ""Abstratas"" - Saude Mental"
+urologia,224,menstruacao dolorosa,glandulas sexuais,tronco
+urologia,225,menstruacao intensa,glandulas sexuais,tronco
+urologia,226,menstruacao irregular,glandulas sexuais,tronco
+urologia,227,miccao excessiva durante a noite,urina,partes gerais do corpo
+urologia,236,nausea/enjoo,abdomen,tronco
+urologia,268,perda de massa muscular,musculos,partes gerais do corpo
+urologia,269,perda de massa ossea,ossos,partes gerais do corpo
+urologia,270,perda de memoria,cabeca,cabeca
+urologia,272,perda de peso,corpo,partes gerais do corpo
+urologia,315,sangue na urina,urina,partes gerais do corpo
+urologia,324,sensacao de queimacao pelo corpo,corpo,partes gerais do corpo
+urologia,325,sensibilidade a dor pelo corpo,corpo,partes gerais do corpo
+urologia,336,suor,pele,partes gerais do corpo
+urologia,356,urina escura,urina,partes gerais do corpo
+urologia,371,vomito,abdomen,tronco
+urologia,374,vontade frequente de urinar,urina,partes gerais do corpo
